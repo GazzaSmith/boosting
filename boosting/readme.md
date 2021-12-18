@@ -1,4 +1,4 @@
-# Credits to bropixel and nopickles.
+
 
 ## Read Config thoroughly
 
